@@ -10,3 +10,15 @@ D:\Programming\C#\ASP.NET\VMS\VmsData\bin\Debug\VmsEntity.dll
 D:\Programming\C#\ASP.NET\VMS\VmsData\bin\Debug\VmsEntity.pdb
 D:\Programming\C#\ASP.NET\VMS\VmsData\bin\Debug\EntityFramework.xml
 D:\Programming\C#\ASP.NET\VMS\VmsData\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\C#\ASP.NET\MMS\MmsData\bin\Debug\VmsData.dll.config
+D:\Programming\C#\ASP.NET\MMS\MmsData\bin\Debug\VmsData.dll
+D:\Programming\C#\ASP.NET\MMS\MmsData\bin\Debug\VmsData.pdb
+D:\Programming\C#\ASP.NET\MMS\MmsData\bin\Debug\EntityFramework.dll
+D:\Programming\C#\ASP.NET\MMS\MmsData\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\C#\ASP.NET\MMS\MmsData\bin\Debug\VmsEntity.dll
+D:\Programming\C#\ASP.NET\MMS\MmsData\bin\Debug\VmsEntity.pdb
+D:\Programming\C#\ASP.NET\MMS\MmsData\bin\Debug\EntityFramework.xml
+D:\Programming\C#\ASP.NET\MMS\MmsData\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\C#\ASP.NET\MMS\MmsData\obj\Debug\MmsData.csprojResolveAssemblyReference.cache
+D:\Programming\C#\ASP.NET\MMS\MmsData\obj\Debug\VmsData.dll
+D:\Programming\C#\ASP.NET\MMS\MmsData\obj\Debug\VmsData.pdb

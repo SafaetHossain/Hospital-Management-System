@@ -41,8 +41,8 @@ namespace MmsData
 
         public int Delete(int id)
         {
-            Medicine medi = this.context.Medicines.SingleOrDefault(x => x.MedicineId == id);
-            this.context.Medicines.Remove(medi);
+            Medicine medicine = this.context.Medicines.SingleOrDefault(x => x.MedicineId == id);
+            this.context.Medicines.Remove(medicine);
 
             return this.context.SaveChanges();
         }

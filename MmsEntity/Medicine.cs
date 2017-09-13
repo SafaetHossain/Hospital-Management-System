@@ -13,6 +13,7 @@ namespace MmsEntity
         public int MedicineId { get; set; }
         [Required(ErrorMessage ="Medicine Name is Required")]
         public string MedicineName { get; set; }
-        public IEnumerable<Medicine> Medicines { get; set; }
+        public IEnumerable<Disease> Diseases { get; set; }
+        public IEnumerable<Prescription> Prescription { get; set; }
     }
 }

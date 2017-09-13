@@ -38,16 +38,24 @@ namespace MmsData
 
         public int Insert(Disease disease)
         {
-            throw new NotImplementedException();
+            this.context.Diseases.Add(disease);
+
+            return this.context.SaveChanges();
         }
 
         public int Update(Disease disease)
         {
-            throw new NotImplementedException();
+            Disease dis = this.context.Diseases.SingleOrDefault(x => x.DiseaseId == disease.DiseaseId);
+            dis.DiseaseName = disease.DiseaseName;
+
+            return this.context.SaveChanges();
         }
         public int Delete(int id)
         {
-            throw new NotImplementedException();
+            Disease disease = this.context.Diseases.SingleOrDefault(x => x.DiseaseId == id);
+            this.context.Diseases.Remove(disease);
+
+            return this.context.SaveChanges();
         }
     }
 }

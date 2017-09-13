@@ -27,5 +27,14 @@ namespace MmsData
         {
             return new MedicineDataAccess(new MmsDBContext());
         }
+
+        public static IDiseaseDataAccess GetDiseaseDataAccess()
+        {
+            return new DiseaseDataAccess(new MmsDBContext());
+        }
+        public static IPrescriptionDataAccess GetPrescriptionDataAccess()
+        {
+            return new PrescriptionDataAccess(new MmsDBContext());
+        }
     }
 }

@@ -55,23 +55,25 @@
     <Compile Include="IDiseaseDataAccess.cs" />
     <Compile Include="IMedicineDataAccess.cs" />
     <Compile Include="IPatientDataAccess.cs" />
+    <Compile Include="IPrescriptionDataAccess.cs" />
     <Compile Include="IUserDataAccess.cs" />
     <Compile Include="MedicineDataAccess.cs" />
     <Compile Include="PatientDataAccess.cs" />
+    <Compile Include="PrescriptionDataAccess.cs" />
     <Compile Include="UserDataAccess.cs" />
-    <Compile Include="VmsDBContext.cs" />
+    <Compile Include="MmsDBContext.cs" />
     <Compile Include="IDoctorDataAccess.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\VmsEntity\MmsEntity.csproj">
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MmsEntity\MmsEntity.csproj">
       <Project>{74daaddd-2e0d-40e3-a142-7dbf66c6efc4}</Project>
       <Name>MmsEntity</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
-    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
