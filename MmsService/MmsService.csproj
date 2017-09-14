@@ -7,8 +7,8 @@
     <ProjectGuid>{3A0B6D89-071F-48AC-A29F-BB00B576DC37}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>VmsService</RootNamespace>
-    <AssemblyName>VmsService</AssemblyName>
+    <RootNamespace>MmsService</RootNamespace>
+    <AssemblyName>MmsService</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

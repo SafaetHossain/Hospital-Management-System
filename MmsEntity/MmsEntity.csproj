@@ -7,8 +7,8 @@
     <ProjectGuid>{74DAADDD-2E0D-40E3-A142-7DBF66C6EFC4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>VmsEntity</RootNamespace>
-    <AssemblyName>VmsEntity</AssemblyName>
+    <RootNamespace>MmsEntity</RootNamespace>
+    <AssemblyName>MmsEntity</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

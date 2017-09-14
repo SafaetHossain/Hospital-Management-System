@@ -11,9 +11,9 @@ D:\Programming\C#\ASP.NET\MMS\MMS\bin\roslyn\System.Reflection.Metadata.dll
 D:\Programming\C#\ASP.NET\MMS\MMS\bin\roslyn\vbc.exe
 D:\Programming\C#\ASP.NET\MMS\MMS\bin\roslyn\VBCSCompiler.exe
 D:\Programming\C#\ASP.NET\MMS\MMS\bin\roslyn\VBCSCompiler.exe.config
-D:\Programming\C#\ASP.NET\MMS\MMS\bin\VMS.dll.config
-D:\Programming\C#\ASP.NET\MMS\MMS\bin\VMS.dll
-D:\Programming\C#\ASP.NET\MMS\MMS\bin\VMS.pdb
+D:\Programming\C#\ASP.NET\MMS\MMS\bin\Mms.dll.config
+D:\Programming\C#\ASP.NET\MMS\MMS\bin\Mms.dll
+D:\Programming\C#\ASP.NET\MMS\MMS\bin\Mms.pdb
 D:\Programming\C#\ASP.NET\MMS\MMS\bin\EntityFramework.dll
 D:\Programming\C#\ASP.NET\MMS\MMS\bin\EntityFramework.SqlServer.dll
 D:\Programming\C#\ASP.NET\MMS\MMS\bin\Microsoft.AI.Agent.Intercept.dll
@@ -46,5 +46,5 @@ D:\Programming\C#\ASP.NET\MMS\MMS\bin\System.Web.Webpages.Razor.xml
 D:\Programming\C#\ASP.NET\MMS\MMS\bin\System.Web.Helpers.xml
 D:\Programming\C#\ASP.NET\MMS\MMS\bin\System.Web.Mvc.xml
 D:\Programming\C#\ASP.NET\MMS\MMS\obj\Debug\MMS.csprojResolveAssemblyReference.cache
-D:\Programming\C#\ASP.NET\MMS\MMS\obj\Debug\VMS.dll
-D:\Programming\C#\ASP.NET\MMS\MMS\obj\Debug\VMS.pdb
+D:\Programming\C#\ASP.NET\MMS\MMS\obj\Debug\Mms.dll
+D:\Programming\C#\ASP.NET\MMS\MMS\obj\Debug\Mms.pdb
