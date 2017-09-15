@@ -10,3 +10,15 @@ D:\Programming\C#\ASP.NET\MMS\MmsData\bin\Debug\EntityFramework.SqlServer.xml
 D:\Programming\C#\ASP.NET\MMS\MmsData\obj\Debug\MmsData.csprojResolveAssemblyReference.cache
 D:\Programming\C#\ASP.NET\MMS\MmsData\obj\Debug\MmsData.dll
 D:\Programming\C#\ASP.NET\MMS\MmsData\obj\Debug\MmsData.pdb
+D:\Programming\C#\Git\MMS\MmsData\bin\Debug\MmsData.dll.config
+D:\Programming\C#\Git\MMS\MmsData\bin\Debug\MmsData.dll
+D:\Programming\C#\Git\MMS\MmsData\bin\Debug\MmsData.pdb
+D:\Programming\C#\Git\MMS\MmsData\bin\Debug\EntityFramework.dll
+D:\Programming\C#\Git\MMS\MmsData\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\C#\Git\MMS\MmsData\bin\Debug\MmsEntity.dll
+D:\Programming\C#\Git\MMS\MmsData\bin\Debug\MmsEntity.pdb
+D:\Programming\C#\Git\MMS\MmsData\bin\Debug\EntityFramework.xml
+D:\Programming\C#\Git\MMS\MmsData\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\C#\Git\MMS\MmsData\obj\Debug\MmsData.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Git\MMS\MmsData\obj\Debug\MmsData.dll
+D:\Programming\C#\Git\MMS\MmsData\obj\Debug\MmsData.pdb

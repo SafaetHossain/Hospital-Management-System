@@ -17,7 +17,8 @@ namespace MmsEntity
         [Required(ErrorMessage = "Password is required")]
         public string Password { get; set; }
         [Required]
-        public string userType { get; set; }
+        public string UserType { get; set; }
+        public string ImagePath { get; set; }
 
         public IEnumerable<Doctor> Doctors { get; set; }
         public IEnumerable<Patient> Patients { get; set; }

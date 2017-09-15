@@ -8,7 +8,7 @@ using MmsEntity;
 
 namespace MmsData
 {
-    class MmsDBContext:DbContext
+    public class MmsDBContext:DbContext
     {
         public DbSet<Doctor> Doctors { get; set; }
         public DbSet<Patient> Patients { get; set; }
