@@ -1,0 +1,4 @@
+D:\Programming\C#\ASP.NET\HMS\HmsEntity\bin\Debug\HmsEntity.dll
+D:\Programming\C#\ASP.NET\HMS\HmsEntity\bin\Debug\HmsEntity.pdb
+D:\Programming\C#\ASP.NET\HMS\HmsEntity\obj\Debug\HmsEntity.dll
+D:\Programming\C#\ASP.NET\HMS\HmsEntity\obj\Debug\HmsEntity.pdb
