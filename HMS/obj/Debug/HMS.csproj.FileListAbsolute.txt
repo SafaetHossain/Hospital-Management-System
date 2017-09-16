@@ -47,3 +47,4 @@ D:\Programming\C#\ASP.NET\HMS\HMS\bin\System.Web.Helpers.xml
 D:\Programming\C#\ASP.NET\HMS\HMS\bin\System.Web.Mvc.xml
 D:\Programming\C#\ASP.NET\HMS\HMS\obj\Debug\HMS.dll
 D:\Programming\C#\ASP.NET\HMS\HMS\obj\Debug\HMS.pdb
+D:\Programming\C#\ASP.NET\HMS\HMS\obj\Debug\HMS.csprojResolveAssemblyReference.cache

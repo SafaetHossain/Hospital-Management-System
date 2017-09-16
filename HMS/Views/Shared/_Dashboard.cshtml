@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@RenderSection("title", false)</title>
+
+    <script src="~/Scripts/jquery.js"></script>
+    <script src="~/Scripts/bootstrap.js"></script>
+    @RenderSection("scripts", false)
+
+    <link href="~/Contents/bootstrap.css" rel="stylesheet" />
+    @RenderSection("styles", false)
+</head>
+<body>
+
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="/Home">Hospital Management System</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="/Home">Home</a></li>
+                <li><a href="/Doctor">Doctors</a></li>
+                <li><a href="/Patient">Patients</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                        <i class="glyphicon glyphicon-user"></i> @RenderSection("username", false)
+                        <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="#"><i class="glyphicon glyphicon-user"></i> My Profile</a></li>
+                        <li><a href="#"><i class="glyphicon glyphicon-cog"></i> Settings</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li><a href="/Login"><i class="glyphicon glyphicon-log-out"></i> Logout</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <br /><br />
+
+    @RenderBody()
+
+</body>
+</html>
