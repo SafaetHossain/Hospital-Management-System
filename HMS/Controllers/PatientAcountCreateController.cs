@@ -7,14 +7,14 @@ using System.Web.Mvc;
 
 namespace HMS.Controllers
 {
-    public class DoctorAccoutCreateController : Controller
+    public class PatientAcountCreateController : Controller
     {
-        // GET: DoctorAccoutCreate
+        // GET: PatientAcountCreate
         public ActionResult Index()
         {
             return View();
         }
-        public ActionResult DoctorSignUp(DoctorProfileModel model)
+        public ActionResult PatientSignUp(PatientProfileModel model)
         {
             return View(model);
         }
